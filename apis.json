@@ -1,0 +1,48 @@
+{
+    "name": "CheckMEND",
+    "description": "The World's largest and best source for property\/goods history checking. Setting the standard in pre-purchase due-diligence for the public and trade.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1253-checkmend.jpg",
+    "tags": [
+        "api provider",
+        "filters",
+        "have api",
+        "history",
+        "properties",
+        "verification"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/checkmend\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "CheckMEND",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1253-checkmend.jpg",
+            "humanURL": "http:\/\/www.checkmend.com\/us\/api_integration",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/checkmend-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Email",
+            "url": "support@checkmend.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/checkmend"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.checkmend.com\/us\/api_integration"
+        }
+    ]
+}
